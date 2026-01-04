@@ -1,1 +1,1 @@
-Developed a Game name TicTacToe
+Developed a Game named TicTacToe
